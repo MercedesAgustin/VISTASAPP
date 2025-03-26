@@ -79,7 +79,6 @@ Este prompt generará el código necesario para la interfaz de ingreso de datos,
 
 ---
 
-**Link de acceso:** http://localhost:8501/  🌐
 **Link de documentación:** https://drive.google.com/file/d/14gtrLvJYsHylvcsxCLUUAezKXti2NuKM/view?usp=sharing 📄
 
 ---
